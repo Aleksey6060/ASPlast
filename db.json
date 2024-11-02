@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Наручные часы Rodania",
+      "category": "Мужские",
+      "description": "Практичные часы с точным и надежным механизмом найдут одобрение у поклонников роскошных аксессуаров.",
+      "price": 22000,
+      "image": "https://static.alltime.ru/obj/catalog/watch/rodania/img/big/R16025.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Наручные часы Tommy Hilfiger",
+      "category": "Женские",
+      "description": "Часы в нежной цветовой гамме смотрятся очень элегантно. С этими часами вы всегда будете в центре внимания.",
+      "price": 19000,
+      "image": "https://static.alltime.ru/obj/catalog/watch/tommy-hilfiger/img/big/1782303.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Японские наручные часы Casio G-SHOCK GA-2100-1A1ER с хронографом",
+      "category": "Спортивные",
+      "description": "Угольно-черные часы, созданные для активной и насыщенной жизни. Модель особенна своим функционалом, противоударным корпусом с включениями карбона.",
+      "price": 17000,
+      "image": "https://static.alltime.ru/obj/catalog/watch/casio/img/big/GA-2100-1A1ER.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apple Watch Ultra 2 GPS + Cellular",
+      "category": "Умные",
+      "description": "Самые надежные и функциональные Apple Watch снова расширяют границы возможностей. Мощный чип S9 SiP. Волшебный способ использовать часы, не прикасаясь к экрану. Самый яркий дисплей Apple за всю историю. Apple Watch Ultra 2 — незаменимый и универсальный инструмент.",
+      "price": 65000,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/4ae/560_280_140cd750bba9870f18aada2478b24840a/j7zioa8a9nolni9gb4zzcgm2l9cnvx07.jpg"
+    },
+    {
+      "id": 5,
+      "name": "HUBLOT 550.ES.5100.RX.ORL21",
+      "category": "Механические",
+      "description": "Прекрасный керамический аксессуар со стильным фактурным циферблатом подчеркнет вашу индивидуальность. Эксклюзивный механизм HUBLOT с запасом хода примерно 42 часа.",
+      "price": 1636200,
+      "image": "https://static.alltime.ru/obj/catalog/watch/hublot/img/big/550-ES-5100-RX-ORL21.jpg"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 2,
+      "name": "Наручные часы Tommy Hilfiger",
+      "category": "Женские",
+      "description": "Часы в нежной цветовой гамме смотрятся очень элегантно. С этими часами вы всегда будете в центре внимания.",
+      "price": 19000,
+      "image": "https://static.alltime.ru/obj/catalog/watch/tommy-hilfiger/img/big/1782303.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Наручные часы Rodania",
+      "category": "Мужские",
+      "description": "Практичные часы с точным и надежным механизмом найдут одобрение у поклонников роскошных аксессуаров.",
+      "price": 22000,
+      "image": "https://static.alltime.ru/obj/catalog/watch/rodania/img/big/R16025.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "name": "Японские наручные часы Casio G-SHOCK GA-2100-1A1ER с хронографом",
+      "category": "Спортивные",
+      "description": "Угольно-черные часы, созданные для активной и насыщенной жизни. Модель особенна своим функционалом, противоударным корпусом с включениями карбона.",
+      "price": 17000,
+      "image": "https://static.alltime.ru/obj/catalog/watch/casio/img/big/GA-2100-1A1ER.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Наручные часы Tommy Hilfiger",
+      "category": "Женские",
+      "description": "Часы в нежной цветовой гамме смотрятся очень элегантно. С этими часами вы всегда будете в центре внимания.",
+      "price": 19000,
+      "image": "https://static.alltime.ru/obj/catalog/watch/tommy-hilfiger/img/big/1782303.jpg"
+    }
+  ]
+}
